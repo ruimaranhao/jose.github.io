@@ -12,3 +12,11 @@ main:
     url: /students/
   - title: "Contact"
     url: /contact/
+# research's toc
+research:
+  - title: "EvoSuite"
+    url: /research#evosuite
+  - title: "AutoSeer"
+    url: /research#autoseer
+  - title: "GZoltar"
+    url: /research#gzoltar
