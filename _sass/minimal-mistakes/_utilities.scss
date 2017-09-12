@@ -221,6 +221,17 @@ body:hover .visually-hidden button {
     color: $github-color;
   }
 
+  .fa-gitlab,
+  .fa-gitlab-alt,
+  .fa-gitlab-square {
+    color: $gitlab-color;
+  }
+
+  .fa-google,
+  .fa-google-square {
+    color: $google-color;
+  }
+
   .fa-google-plus,
   .fa-google-plus-square {
     color: $google-plus-color;
@@ -249,6 +260,10 @@ body:hover .visually-hidden button {
   .fa-rss,
   .fa-rss-square {
     color: $rss-color;
+  }
+
+  .fa-skype {
+    color: $skype-color;
   }
 
   .fa-soundcloud {

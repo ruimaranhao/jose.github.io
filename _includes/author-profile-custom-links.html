@@ -5,3 +5,27 @@
     </a>
   </li>
 -->
+
+{% if author.google_scholar %}
+  <li>
+    <a href="http://scholar.google.com/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+
+{% if author.acm %}
+  <li>
+    <a href="http://dl.acm.org/author_page.cfm?id={{ author.acm }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-book" aria-hidden="true"></i> ACM Digital Library
+    </a>
+  </li>
+{% endif %}
+
+{% if author.dblp %}
+  <li>
+    <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/c/{{ author.dblp }}=.html" itemprop="sameAs">
+      <i class="fa fa-fw fa-book" aria-hidden="true"></i> DBLP
+    </a>
+  </li>
+{% endif %}
