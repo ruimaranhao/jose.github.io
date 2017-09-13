@@ -26,7 +26,23 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.title %}
+          <h1 class="page__title" itemprop="headline">
+            {% if page.award %}
+              <i class="fa fa-fw fa-trophy" style="color: #AA0000; text-shadow: 1px 1px 1px #ccc;" title="{{ page.award }}"></i>
+            {% endif %}
+            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+            {% if page.paper %}
+              <a href="{{ page.paper }}"><i class="fa fa-file-pdf-o" style="color: gray; font-size: .875em;"></i></a>
+            {% endif %}
+            {% if page.slides %}
+              <a href="{{ page.slides }}"><i class="fa fa-file-powerpoint-o" style="color: gray; font-size: .875em;"></i></a>
+            {% endif %}
+            {% if page.data %}
+              <a href="{{ page.data }}"><i class="fa fa-file-archive-o" style="color: gray; font-size: .875em;"></i></a>
+            {% endif %}
+          </h1>
+          {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
