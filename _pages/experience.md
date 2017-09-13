@@ -4,6 +4,8 @@ layout: single
 permalink: /experience/
 ---
 
+<a href="{{ '/assets/pdfs/cv.pdf' }}"><i class="fa fa-file-pdf-o"></i> Curriculum Vitae</a>
+
 * September 2016 - January 2017 <br/>
 **Teaching Assistant** [COM4506 - Testing and Verification in
 Safety-Critical Systems](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4506.html)
