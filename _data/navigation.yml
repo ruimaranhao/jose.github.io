@@ -12,6 +12,8 @@ main:
     url: /students/
   - title: "Contact"
     url: /contact/
+  - title: "Awards"
+    url: /awards/
 # event's toc
 events:
   - title: "Upcoming Events"

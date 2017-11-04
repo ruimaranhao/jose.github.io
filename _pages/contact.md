@@ -5,16 +5,15 @@ permalink: /contact/
 author_profile: true
 ---
 
-<p>The University of Sheffield (UK) -- Department of Computer Science,
-Regent Court, 211 Portobello, Sheffield, S14DP, UK</p>
+<p>Instituto Superior Tecnico -- University of Lisbon, Lisbon, Portugal</p>
 
-<p>Laboratory Verification and Testing (VT) <br />
-<i class="fa fa-phone" aria-hidden="true"></i> (+44) 1142 221 800
+<p>INESC-ID -- Rua Alves Redol 9, 1000-029 Lisbon, Portugal <br />
+<i class="fa fa-phone" aria-hidden="true"></i> (+351) 213 100 300
 </p>
 
-<p><a href="mailto:jose.campos@sheffield.ac.uk">
-    <i class="fa fa-envelope-o" aria-hidden="true"></i> 
-    jose.campos[at]sheffield.ac.uk</a> <br />
-  <i class="fa fa-phone" aria-hidden="true"></i> 
-  (+351) 964 616 542 - (+44) 07943 737 915
+<p><a href="mailto:rui.maranhao@tecnico.ulisboa.pt">
+    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+    rui.maranhao@tecnico.ulisboa.pt</a> <br />
+  <i class="fa fa-phone" aria-hidden="true"></i>
+  (+351) 965 641 253
 </p>

@@ -6,55 +6,65 @@ sidebar:
   nav: "research"
 ---
 
-### EvoSuite
+### AIMS - Accelerated Improvement Method Support
+* Position: Project member (work package leader)
+* Line of Attention: Platform Service
+* Partners: University of Porto, Strongstep, Multicert
+* Dates: November 2011 - October 2013
+* Website: http://sigarra.up.pt/feup/pt/projectos_geral.mostra_projecto?P_ID= 64381
+* Funding: Portuguese Innovation Agency, S.A.
 
-To find defects in software, one needs test cases that execute the
-software systematically, and oracles that assess the correctness of
-the observed behavior when running these test cases. EvoSuite is a
-tool that automatically generates test cases with assertions for
-classes written in Java code. To achieve this, EvoSuite applies a
-novel hybrid approach that generates and optimizes whole test suites
-towards satisfying a coverage criterion. For the produced test suites,
-EvoSuite suggests possible oracles by adding small and effective sets
-of assertions that concisely summarize the current behavior; these
-assertions allow the developer to detect deviations from expected
-behavior, and to capture the current behavior in order to protect
-against future defects breaking this behaviour.
+### AutoSeer - Automatic generation of Test Oracles for Software Error Detection
 
-More information -- [EvoSuite website](http://www.evosuite.org/).
+* Position: Project Leader
+* Line of Attention: Devising methods and techniques for automatic error detection
+* Partners: University of Porto, University of Minho, Critical Software
+* Dates: April 2012 - March 2015
+* Website: http://www.fe.up.pt/AutoSeer
+* Funding: Portuguese Foundation for Science and Technology (FCT, PTDC/EIA-CCO/116796/2010)
 
-### AutoSeer
 
-This project propose to investigate the use of various generic
-invariants in the value and time domain, their effect on
-Spectrum-based Fault Localization (SFL)'s diagnostic precision, their
-relation with existing test oracles, and their runtime overhead, in
-particular, the density required or strategic placement (trading off
-overhead vs precision). The industrial partner of this project is
-[Critical Software](http://www.criticalsoftware.com/).
+### PBGT - Pattern-based GUI testing
 
-More information -- [AutoSeer website](http://autoseer.fe.up.pt).
+* Position: Project member (work package leader, co-submitted)
+* Line of Attention: Automating the testing phase of software applications exploiting patterns
+* Partners: University of Porto, University of Minho, TelBit
+* Dates: April 2012 - March 2015
+* Website: http://paginas.fe.up.pt/~apaiva/PBGT/PBGT.htm
+* Funding: Portuguese Foundation for Science and Technology (FCT, PTDC/EIA-EIA/119479/2010)
+
+### ArchDiag - Architecture-based Run-time Fault Diagnosis
+
+* Position: Co-Project Leader (with David Garlan)
+* Line of Attention: Methods and techniques for self-healing systems based on their architectures. 11
+* Partners: University of Porto, Carnegie Mellon University, NASA Jet Propulsion Laboratory
+* Dates: September 2011 - August 2014
+* Website: http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1116848
+* Funding: National Science Foundation (NSF), United States of America
+
+### SSaaPP - Spreadsheets as a Programming Paradigm
+
+* Position: Project member
+* Line of Attention: Diagnosis of Spreadsheets, developing intuitive ways to communicate diagnostic results to end-users
+* Partners: University of Porto, University of Minho, Software Improvement Group
+* Dates: May 2005 - April 2013
+* Website: http://ssaapp.di.uminho.pt/
+* Funding: Portuguese Foundation for Science and Technology (FCT, PTDC/EIA- CCO/108613/2008)
+
 
 ### GZoltar
 
-GZoltar is a framework for automating the testing and debugging phases
-of the software development life-cycle. At the moment, the framework
-is provided as an Eclipse plug-in and integrates seamlessly with JUnit
-tests.
+* Position: Project Leader
+* Line of Attention: Contributed to the development and progress of GZoltar. He also promotes GZoltar by presenting the techniques at various venues and companies
+* Partners: University of Porto, Delft University of Technology
+* Dates: November 2009 - today
+* Website: http://www.gzoltar.com
 
-The idea of automating this process started in 2005 as part of the PhD
-research of Rui Abreu working with Arjan J.C. van Gemund (back then at
-the Delft University of Technology). Initially, the focus was to
-automate the debugging phase, and the initial idea, published at
-TAIC-PART'07, was to generate diagnosis candidates taking as input the
-coverage information for each test case. Later in 2010, there was the
-need to provide better visualization reports, which lead to the first
-version of GZoltar (and was published at TOPI'11, an ICSE'11
-workshop). In the same framework, developers can find techniques for
-test case minimization and prioritization - this way creating a
-perfect ecosystem for performing testing and debugging. Currently the
-framework is available as a library, which every developer/researcher
-can use the power of GZoltar to implement new techniques for fault
-localization or test suite minimization.
+### TRADER - Television Related Architecture and design to Enhance Reliability
 
-More information -- [GZoltar website](http://www.gzoltar.com).
+* Position: Project member (PhD Student)
+* Line of Attention: Analysis and detection of imminent product failures, namely techniques for automatic error detection and diagnosis
+* Partners: NXP Semiconductors, NXP Research, Philips TASS, Philips Consumer Electronics, Delft University of Technology, Design Technology Institute/Eindhoven University of Technology, IMEC, Leiden University, Embedded Systems Institute
+* Dates: August 2005 - November 2009
+* Website: http://www.esi.nl/trader
+* Funding: Dutch Ministry of Economic Affairs (BSIK03021 program).

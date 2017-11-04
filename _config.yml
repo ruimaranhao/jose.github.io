@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Research ...."
+title                    : "Rui Abreu"
 title_separator          : "-"
-name                     : "José Campos"
-description              : "Jose's webpage."
-url                      : "https://jose.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Rui Maranhao Abreu"
+description              : "Rui's webpage."
+url                      : "https://ruimaranhao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jose/jose.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ruimaranhao/ruimaranhao.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -79,35 +79,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Campos"
+  name             : "Rui Maranhao"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student in Computer Science, The University of Sheffield (UK)"
-  location         : "Sheffield, UK"
-  email            : "jose.campos[at]sheffield.ac.uk"
+  bio              : "Software Engineer, Associate Professor @ IST, University of Lisbon, Entrepreneur, PARC alumnus; husband and father of three."
+  location         : "Lisbon, Portugal"
+  email            : "rui.maranhao[at]tecnico.ulisboa.pt"
   uri              :
-  acm              : "81548005386" # ACM Digital Library, http://dl.acm.org/
+  acm              : "81321488948" # ACM Digital Library, http://dl.acm.org/
   bitbucket        :
   codepen          :
-  dblp             : "Campos:Jos=eacute" # DBLP, http://dblp.uni-trier.de
+  dblp             : "Abreu:Rui" # DBLP, http://dblp.uni-trier.de
   dribbble         :
   flickr           :
-  facebook         : "zecarlosdecampos"
+  facebook         : "rui.maranhao"
   foursquare       :
-  github           : "jose"
-  gitlab           : "jose"
+  github           : "ruimaranhao"
+  gitlab           : "ruimaranhao"
   google_plus      :
-  google_scholar   : "Sa3OTVUAAAAJ&hl"
+  google_scholar   : "x25BFgEAAAAJ&hl"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "ruimaranhao" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  skype            : "zecarlosdecampos"
+  skype            : "ruifilipemaranhao"
   soundcloud       :
-  stackoverflow    : "998816/josecampos" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : #"998816/josecampos" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "zecarloscampos"
+  twitter          : "rmaranhao"
   vine             :
   weibo            :
   xing             :
