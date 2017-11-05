@@ -17,5 +17,5 @@ Symposium on the Foundations of Software Engineering
 <u>Program Committee Member</u>
 
 * The 18th IEEE International Conference on Software Quality,
-Reliability and Security (<a href="http://paris.utdallas.edu/qrs18/">QRS18</a>
+Reliability and Security (<a href="http://paris.utdallas.edu/qrs18/">QRS18</a>)
 <u>Program Co-chair</u>
