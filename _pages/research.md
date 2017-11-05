@@ -2,8 +2,7 @@
 title: Research
 layout: single
 permalink: /research/
-sidebar:
-  nav: "research"
+author_profile: true
 ---
 
 ### GreenSoftwareLab - Towards an Engineering Discipline for Green Software
