@@ -15,8 +15,9 @@ The following metrics were obtained from Google Scholar on August 10, 2017.
 * i10-index 43
 
 ### Scientific databases:
-ORCID http://orcid.org/0000-0003-3734-3157
-SCOPUS http://www.scopus.com/authid/detail.uri?authorId=16479696600
-ResearcherID http://www.researcherid.com/rid/A-8119-2015
-DBLP http://www.informatik.uni-trier.de/ ̃ley/db/indices/a-tree/a/Abreu:Rui.html Authenticus https://www.authenticus.pt/R-000-KWV
-SemanticScholar https://www.semanticscholar.org/author/Rui-Abreu/1712624
+* [ORCID](http://orcid.org/0000-0003-3734-3157)
+* [SCOPUS](http://www.scopus.com/authid/detail.uri?authorId=16479696600)
+* [ResearcherID](http://www.researcherid.com/rid/A-8119-2015)
+* [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Abreu:Rui.html)
+* [Authenticus](https://www.authenticus.pt/R-000-KWV)
+* [SemanticScholar](https://www.semanticscholar.org/author/Rui-Abreu/1712624)
