@@ -21,7 +21,7 @@ permalink: /experience/
 * 09–2010 ⇒ 01–2011
 **Visiting Faculty Member** at Carnegie Mellon University (USA)
 
-* 06–2006 ⇒ 09–2009 </br/>
+* 06–2006 ⇒ 09–2009 <br/>
 **Research Assistant** at the Embedded Systems Institute and Delft University of Technology (NL)
 
 * 05-2007 ⇒ 05-2008
