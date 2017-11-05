@@ -2,10 +2,10 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Latest News" }}</h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- from twitter widgets -->
+<a class="twitter-timeline" href="https://twitter.com/rmaranhao" data-widget-id="270566255801536512">Tweets by @rmaranhao</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 {% include paginator.html %}
