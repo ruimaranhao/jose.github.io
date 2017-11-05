@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
   - title: "Experience"
     url: /experience/
   - title: "Awards"
@@ -14,20 +14,3 @@ main:
     url: /students/
   - title: "Contact"
     url: /contact/
-
-# event's toc
-events:
-  - title: "Upcoming Events"
-    url: /events/#upcoming-events
-  - title: "Organisation"
-    url: /events/#organisation
-  - title: "Program Committees"
-    url: /events/#program-committees
-# research's toc
-research:
-  - title: "EvoSuite"
-    url: /research#evosuite
-  - title: "AutoSeer"
-    url: /research#autoseer
-  - title: "GZoltar"
-    url: /research#gzoltar
