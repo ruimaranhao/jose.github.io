@@ -6,7 +6,39 @@ sidebar:
   nav: "research"
 ---
 
+### GreenSoftwareLab - Towards an Engineering Discipline for Green Software
+* Position: Task Leader
+* Line of Attention: Programming Refactorings for Better Energy Performance
+* Partners: University of Minho, INESC TEC, University of Beira Interior, New University of Lisbon
+* Dates: April 2016 - March 2029
+* Funding: Portuguese Foundation for Science and Technology (FCT, PTD- C/EEIESS/5341/2014)
+
+### ANTAREX - AutoTuning and Adaptivity approach for Energy efficient eXascale HPC systems
+* Position: Task Leader
+* Line of Attention: Programming Models and Languages for Self-adaptivity
+* Partners: Politecnico di Milano, University of Porto, INRIA Rennes, CINECA, IT4Innovation, Sygic, ETH Zurich, Dompe ́
+* Dates: September 2015 - August 2019
+* Website: http://antarex.fe.up.pt
+* Funding: Horizon 2020 - Research and Innovation Framework Programme, European Commission
+
+
+### ADAPT - A Diagnostics Approach for Persistent Threat Detection
+* Position: Task Leader
+* Line of Attention: Detection and Diagnosis of Advanced Persistent Threats
+* Partners: Galois, Inc.; PARC, Inc.; University of Edinburgh; Oregon State University
+* Dates: July 2015 - June 2018
+* Funding: Defense Advanced Research Projects Agency (DARPA)
+
+### AIMS2 - Accelerated Improvement Method Strongstep 2
+
+* Position: Project Member
+* Line of Attention: Aigle Software Development Methodologies
+* Partners: University of Porto; Strongstep; Match Profiler
+* Dates: December 2015 - May 2017
+* Funding: Portugal 2020 – Portuguese Innovation Agency, S.A.
+
 ### AIMS - Accelerated Improvement Method Support
+
 * Position: Project member (work package leader)
 * Line of Attention: Platform Service
 * Partners: University of Porto, Strongstep, Multicert

@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Rui Abreu"
+title                    : "Rui Maranhao Abreu"
 title_separator          : "-"
 name                     : "Rui Maranhao Abreu"
 description              : "Rui's webpage."
@@ -74,12 +74,12 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-44641142-1"
+    tracking_id          : "UA-109233467-1"
 
 
 # Site Author
 author:
-  name             : "Rui Maranhao"
+  name             : "Rui Maranhao Abreu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer, Associate Professor @ IST, University of Lisbon, Entrepreneur, PARC alumnus; husband and father of three."
   location         : "Lisbon, Portugal"
