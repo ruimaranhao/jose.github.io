@@ -2,8 +2,7 @@
 title: Events
 layout: single
 permalink: /events/
-sidebar:
-  nav: "events"
+author_profile: true
 ---
 
 ### Upcoming Events
