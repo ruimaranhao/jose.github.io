@@ -37,3 +37,27 @@
     </a>
   </li>
 {% endif %}
+
+{% if author.scopus %}
+  <li>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-book" aria-hidden="true"></i> SCOPUS
+    </a>
+  </li>
+{% endif %}
+
+{% if author.ResearcherID %}
+  <li>
+    <a href="http://www.researcherid.com/rid/{{ author.ResearcherID }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-book" aria-hidden="true"></i> ResearcherID
+    </a>
+  </li>
+{% endif %}
+
+{% if author.SemanticScholar %}
+  <li>
+    <a href="https://www.semanticscholar.org/author/{{ author.SemanticScholar }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-book" aria-hidden="true"></i> SemanticScholar
+    </a>
+  </li>
+{% endif %}

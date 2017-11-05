@@ -9,15 +9,16 @@ author_profile: true
 
 * Total number of publications: 118
 
-The following metrics were obtained from Google Scholar on August 10, 2017.
-* Citations: 2521
+The following metrics were obtained from Google Scholar on November 5, 2017.
+* Citations: 2681
 * h-index: 24
-* i10-index 43
+* i10-index 45
 
 ### Scientific databases:
+* [Google Scholar](http://scholar.google.com/citations?user=x25BFgEAAAAJ&hl=en)
 * [ORCID](http://orcid.org/0000-0003-3734-3157)
 * [SCOPUS](http://www.scopus.com/authid/detail.uri?authorId=16479696600)
 * [ResearcherID](http://www.researcherid.com/rid/A-8119-2015)
 * [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Abreu:Rui.html)
 * [Authenticus](https://www.authenticus.pt/R-000-KWV)
-* [SemanticScholar](https://www.semanticscholar.org/author/Rui-Abreu/1712624)
+* [SemanticScholar](https://www.semanticscholar.org/author/Rui-Abreu/3175505)
