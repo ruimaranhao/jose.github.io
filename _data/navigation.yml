@@ -4,10 +4,12 @@ main:
     url: /events/
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/    
   - title: "Experience"
     url: /experience/
   - title: "Awards"
-    url: /awards/    
+    url: /awards/
   - title: "Students"
     url: /students/
   - title: "Contact"
