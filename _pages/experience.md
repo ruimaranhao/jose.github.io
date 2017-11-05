@@ -4,7 +4,7 @@ layout: single
 permalink: /experience/
 ---
 
-<a href="{{ '/assets/pdfs/cv.pdf' }}"><i class="fa fa-file-pdf-o"></i> Curriculum Vitae</a>
+<!--<a href="{{ '/assets/pdfs/cv.pdf' }}"><i class="fa fa-file-pdf-o"></i> Curriculum Vitae</a>-->
 
 * 02-2017 ⇒ Present <br/>
 **Associate Professor** at Insituto Superior Técnico, University of Lisbon (PT)
