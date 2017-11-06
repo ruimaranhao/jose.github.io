@@ -8,7 +8,7 @@
 
 {% if author.google_scholar %}
   <li>
-    <a href="http://scholar.google.com/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+    <a href="http://scholar.google.com/citations?user={{ author.google_scholar }}" target="_top">
       <i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar
     </a>
   </li>
@@ -16,7 +16,7 @@
 
 {% if author.acm %}
   <li>
-    <a href="http://dl.acm.org/author_page.cfm?id={{ author.acm }}" itemprop="sameAs">
+    <a href="http://dl.acm.org/author_page.cfm?id={{ author.acm }}" target="_top">
       <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> ACM Digital Library
     </a>
   </li>
@@ -24,7 +24,7 @@
 
 {% if author.dblp %}
   <li>
-    <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/c/{{ author.dblp }}=.html" itemprop="sameAs">
+    <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/c/{{ author.dblp }}=.html" target="_top">
       <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> DBLP
     </a>
   </li>
@@ -32,7 +32,7 @@
 
 {% if author.orcid %}
   <li>
-    <a href="http://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+    <a href="http://orcid.org/{{ author.orcid }}" target="_top">
       <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> ORCID
     </a>
   </li>
@@ -40,7 +40,7 @@
 
 {% if author.scopus %}
   <li>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}" itemprop="sameAs">
+    <a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}" target="_top">
       <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> SCOPUS
     </a>
   </li>
@@ -48,7 +48,7 @@
 
 {% if author.ResearcherID %}
   <li>
-    <a href="http://www.researcherid.com/rid/{{ author.ResearcherID }}" itemprop="sameAs">
+    <a href="http://www.researcherid.com/rid/{{ author.ResearcherID }}" target="_top">
       <i class="fa fa-fw fa-spinner" aria-hidden="true"></i> ResearcherID
     </a>
   </li>
@@ -56,7 +56,7 @@
 
 {% if author.SemanticScholar %}
   <li>
-    <a href="https://www.semanticscholar.org/author/{{ author.SemanticScholar }}" itemprop="sameAs">
+    <a href="https://www.semanticscholar.org/author/{{ author.SemanticScholar }}" target="_top">
       <i class="fa fa-fw fa-line-chart" aria-hidden="true"></i> SemanticScholar
     </a>
   </li>
