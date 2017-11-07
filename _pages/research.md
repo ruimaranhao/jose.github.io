@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+Below there is information regarding my research activities, namely publications and projects. 
+
+
 # Publications
 
 <p font-size="11px"> For a complete list of publications, check my <a href="http://scholar.google.com/citations?user=x25BFgEAAAAJ&hl=en">Google Scholar profile</a>. Author of 230 highly influential citations, according to <a href="https://www.semanticscholar.org/author/Rui-Abreu/3175505">SemanticScholar</a>.</p>
