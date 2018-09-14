@@ -6,13 +6,15 @@ permalink: /students/
 
 Rui has supervised/is supervising the following PhD students:
 
+* Sofia Reis (IST) Measuring and Improving Linters in the Context of Security (2018 ⇒ 2022, on going)
+
 * Pedro Santos (FEUP) An efficient and intelligent personal trainer as a software application (2016 ⇒ 2020, on going)
 
-* [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2018, on going)
+* [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2019, on going)
 
-* Alexandre Perez (FEUP/PARC) Multi-model fault localization in software systems (2012 ⇒ 2018, on going)
+* Alexandre Perez (FEUP/PARC) Multi-model fault localization in software systems (2012 ⇒ 2018)
 
-* [Jose Campos](https://jose.github.io/) (U.Sheffield, co-supervised with Gordon Fraser) (re)Testing Evolving Software (2012 ⇒ 2017, on going)
+* [Jose Campos](https://jose.github.io/) (U.Sheffield, co-supervised with Gordon Fraser) (re)Testing Evolving Software (2012 ⇒ 2017)
 
 * Nuno Cardoso (FEUP, co-supervised with David Garlan) Spectrum-based Diagnosis for Run-time Systems (September 2011 ⇒ April 2016)
 
