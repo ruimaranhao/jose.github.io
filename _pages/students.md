@@ -12,7 +12,7 @@ Rui has supervised/is supervising the following PhD students:
 
 * [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2019, on going)
 
-* Alexandre Perez (FEUP/PARC) Multi-model fault localization in software systems (2012 ⇒ 2018)
+* Alexandre Perez (FEUP/PARC) Spectrum-based Diagnosis: Measurements, Improvements and Applications (2012 ⇒ 2018)
 
 * [Jose Campos](https://jose.github.io/) (U.Sheffield, co-supervised with Gordon Fraser) (re)Testing Evolving Software (2012 ⇒ 2017)
 
