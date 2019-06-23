@@ -8,13 +8,7 @@ Rui has supervised/is supervising the following PhD students:
 
 * Francisco Ribeiro (UMinho, co-supervised with João Saraiva) Explaining Software Faults in Source Code. (2019 — 2022, on going)
 
-* [Sofia Reis](https://scholar.google.pt/citations?user=jP79vaIAAAAJ&hl=en) (IST) Understanding and Improving Security-oriented Static Analysis Techniques (2018 — 2022, on going)
-Luis Cruz (FEUP/MAP-i) Guidelines to Develop Energy Efficient Mobile Applications (2013 — 2019, on go- ing)
-
-
-* Sofia Reis (IST) Measuring and Improving Linters in the Context of Security (2018 ⇒ 2022, on going)
-
-* Pedro Santos (FEUP) An efficient and intelligent personal trainer as a software application (2016 ⇒ 2020, on going)
+* [Sofia Reis](https://sofiaoreis.github.io/) (IST) Understanding and Improving Security-oriented Static Analysis Techniques (2018 ⇒ 2022, on going)
 
 * [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2019, on going)
 
