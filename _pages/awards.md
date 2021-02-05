@@ -7,6 +7,10 @@ author_profile: true
 
 ### Honors and Awards
 
+* Distinguished Paper Award at the The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’19), Tallinn, Estonia, 2019.
+
+* Best Paper Award at the XXI Ibero-American Conference on Software Engineering (CiBSE’18), Bogota, Colombia, 2018.
+
 * “A Survey on Software Fault Localization” selected to be featured on ACMs 21st Annual Best of Computing (Notable Articles), June 2017.
 
 * IEEE Senior Member, July 2016 (Senior Member is the highest grade for which IEEE members can apply; only 9% of its over 430,000 members have achieved senior grade)

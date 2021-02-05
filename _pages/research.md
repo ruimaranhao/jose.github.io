@@ -12,12 +12,12 @@ Below there is information regarding my research activities, namely publications
 
 <p font-size="11px"> For a complete list of publications, check my <a href="http://scholar.google.com/citations?user=x25BFgEAAAAJ&hl=en">Google Scholar profile</a>. Author of 230 highly influential citations, according to <a href="https://www.semanticscholar.org/author/Rui-Abreu/3175505">SemanticScholar</a>.</p>
 
-* Total number of publications: 118
+* Total number of publications: 151
 
-The following metrics were obtained from Google Scholar on November 5, 2017.
-* Citations: 2681
-* h-index: 24
-* i10-index 45
+The following metrics were obtained from Google Scholar on February 5, 2020.
+* Citations: 5707
+* h-index: 35
+* i10-index 76
 
 ##### My Profile in Scientific databases:
 * [Google Scholar](http://scholar.google.com/citations?user=x25BFgEAAAAJ&hl=en)
@@ -30,6 +30,20 @@ The following metrics were obtained from Google Scholar on November 5, 2017.
 
 
 # Projects
+
+### SecurityAware - Fine-grained approach to detect and patch vulnerabilities
+* Position: Project Leader
+* Line of Attention: Security Vulnerabilities / Machine Learning
+* Partners: INESC-ID and CMU
+* Dates: Movember 2020 - October 2021
+* Funding: CMU Portugal, Portuguese Foundation for Science and Technology (FCT, CMU/TIC/0064/2019)
+
+### [FaultLocker - FaultLocker] - FAULT LOCalization and repair toolKit for dEpendable softwaRe
+* Position: Project Leader
+* Line of Attention: Techniques for automatic fault localization and repair of software systems
+* Partners: INESC-ID and Faculty of Sciences of University of Lisbon
+* Dates: September 2018 - August 2021
+* Funding: Portuguese Foundation for Science and Technology (FCT, PTDC/CCI-COM/29300/2017)
 
 ### [GreenSoftwareLab](http://greenlab.di.uminho.pt/) - Towards an Engineering Discipline for Green Software
 

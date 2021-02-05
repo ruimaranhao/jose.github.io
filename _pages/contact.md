@@ -5,13 +5,13 @@ permalink: /contact/
 author_profile: true
 ---
 
-<p>Instituto Superior Tecnico -- University of Lisbon, Lisbon, Portugal</p>
+<p>Faculty of Engineering -- University of Porto, Porto, Portugal</p>
 
 <p>INESC-ID -- Rua Alves Redol 9, 1000-029 Lisbon, Portugal <br />
 
-<p><a href="mailto:rui.maranhao@tecnico.ulisboa.pt">
+<p><a href="mailto:rma@fe.up.pt">
     <i class="fa fa-envelope-o" aria-hidden="true"></i>
-    rui.maranhao@tecnico.ulisboa.pt</a> <br />
+    rma@fe.up.pt</a> <br />
   <i class="fa fa-phone" aria-hidden="true"></i>
-  (+351) 213 100 300
+  (+351) 225 082 134
 </p>

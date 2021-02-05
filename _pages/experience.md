@@ -6,7 +6,13 @@ permalink: /experience/
 
 <!--<a href="{{ '/assets/pdfs/cv.pdf' }}"><i class="fa fa-file-pdf-o"></i> Curriculum Vitae</a>-->
 
-* 02-2017 ⇒ Present <br/>
+* 08-2020 ⇒ present <br/>
+**Full Professor** at Faculty of Engineering of University of Porto
+
+* 11-2019 ⇒ 11-2020 <br/>
+**Visiting Researcher** at Google NYC
+
+* 02-2017 ⇒ 07-2020 <br/>
 **Associate Professor** at Insituto Superior Técnico, University of Lisbon (PT)
 
 * 01–2017 ⇒ Present <br/>

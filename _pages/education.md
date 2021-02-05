@@ -4,6 +4,9 @@ layout: single
 permalink: /education/
 ---
 
+* 04-2019 <br/>
+**Habilitation in Computer Science and Engineering**, Instituto Superior Tecnico, University of Lisbon, Portugal; April 2019. <br/> **Topic:** Measuring and Improving Software Fault Diagnosis; **Committee Members:** A. Zeller, J. Monteiro, L. Caires, H. Madeira, A. Oliveira (president), and A. Porto.
+
 * 07-2016 ⇒ 06-2017 <br/>
 **Machine Learning Engineer Nanodegree Udacity**; co-created by Kaggle; July 2016–June 2017.
 

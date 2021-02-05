@@ -6,11 +6,14 @@ permalink: /students/
 
 Rui has supervised/is supervising the following PhD students:
 
+* [Nuno Sabino](https://www.cmuportugal.org/students/nuno-sabino/) (IST/CMU, co-supervised by Pedro Adao, Limin Jia, Lujo Bauer) Automatic Vulnerability 
+Detection using Fuzzing and Symbolic Execution (2020 ⇒ 2024, on going)
+
 * Francisco Ribeiro (UMinho, co-supervised with João Saraiva) Explaining Software Faults in Source Code. (2019 — 2022, on going)
 
 * [Sofia Reis](https://sofiaoreis.github.io/) (IST) Understanding and Improving Security-oriented Static Analysis Techniques (2018 ⇒ 2022, on going)
 
-* [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2019, on going)
+* [Luis Cruz](https://luiscruz.github.io/) (FEUP) Combining Living Analytics and Educational Data Mining to Model Student Performance (2013 ⇒ 2019)
 
 * Alexandre Perez (FEUP/PARC) Spectrum-based Diagnosis: Measurements, Improvements and Applications (2012 ⇒ 2018)
 
