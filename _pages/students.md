@@ -6,8 +6,7 @@ permalink: /students/
 
 Rui has supervised/is supervising the following PhD students:
 
-* [Nuno Sabino](https://www.cmuportugal.org/students/nuno-sabino/) (IST/CMU, co-supervised by Pedro Adao, Limin Jia, Lujo Bauer) Automatic Vulnerability 
-Detection using Fuzzing and Symbolic Execution (2020 ⇒ 2024, on going)
+* [Nuno Sabino](https://www.cmuportugal.org/students/nuno-sabino/) (IST/CMU, co-supervised by Pedro Adao, Limin Jia, Lujo Bauer) Security of Web Applications using Fuzzing and Symbolic Execution (2020 ⇒ 2024, on going)
 
 * Francisco Ribeiro (UMinho, co-supervised with João Saraiva) Explaining Software Faults in Source Code. (2019 — 2022, on going)
 
