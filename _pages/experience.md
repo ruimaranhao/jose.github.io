@@ -2,6 +2,7 @@
 title: Experience
 layout: single
 permalink: /experience/
+author_profile: true
 ---
 
 <!--<a href="{{ '/assets/pdfs/cv.pdf' }}"><i class="fa fa-file-pdf-o"></i> Curriculum Vitae</a>-->

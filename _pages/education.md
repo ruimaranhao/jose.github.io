@@ -2,6 +2,7 @@
 title: Education
 layout: single
 permalink: /education/
+author_profile: true
 ---
 
 * 04-2019 <br/>

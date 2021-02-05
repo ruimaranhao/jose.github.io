@@ -2,6 +2,7 @@
 title: Students
 layout: single
 permalink: /students/
+author_profile: true
 ---
 
 Rui has supervised/is supervising the following PhD students:
