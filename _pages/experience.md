@@ -15,8 +15,8 @@ permalink: /experience/
 * 02-2017 ⇒ 07-2020 <br/>
 **Associate Professor** at Insituto Superior Técnico, University of Lisbon (PT)
 
-* 01–2017 ⇒ Present <br/>
-**Head of Engineering** at TBA (startup in stealth mode, PT/GE)
+* 01–2017 ⇒ 03-2019 <br/>
+**Founder, Head of Engineering** at DashDash/Rows 
 
 * 2009 ⇒ 02–2017 <br/>
 **Assistant Professor** at University of Porto (PT)
